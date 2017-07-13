@@ -6,3 +6,11 @@ C:\users\eddie\documents\code\hellouser\bin\Debug\netcoreapp1.1\hellouser.pdb
 C:\users\eddie\documents\code\hellouser\obj\Debug\netcoreapp1.1\hellouser.AssemblyInfo.cs
 C:\users\eddie\documents\code\hellouser\obj\Debug\netcoreapp1.1\hellouser.dll
 C:\users\eddie\documents\code\hellouser\obj\Debug\netcoreapp1.1\hellouser.pdb
+C:\users\eddie\documents\github\task-2.1\bin\Debug\netcoreapp1.1\hellouser.deps.json
+C:\users\eddie\documents\github\task-2.1\bin\Debug\netcoreapp1.1\hellouser.runtimeconfig.json
+C:\users\eddie\documents\github\task-2.1\bin\Debug\netcoreapp1.1\hellouser.runtimeconfig.dev.json
+C:\users\eddie\documents\github\task-2.1\obj\Debug\netcoreapp1.1\hellouser.AssemblyInfo.cs
+C:\users\eddie\documents\github\task-2.1\obj\Debug\netcoreapp1.1\hellouser.dll
+C:\users\eddie\documents\github\task-2.1\obj\Debug\netcoreapp1.1\hellouser.pdb
+C:\users\eddie\documents\github\task-2.1\bin\Debug\netcoreapp1.1\hellouser.dll
+C:\users\eddie\documents\github\task-2.1\bin\Debug\netcoreapp1.1\hellouser.pdb
